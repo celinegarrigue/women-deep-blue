@@ -1,0 +1,83 @@
+body {
+	text-align: center;
+	margin: 50px;
+}
+
+
+div{
+	margin: 25px 25px;
+}
+
+
+.box {
+	background-color: pink;
+	padding: 50px 100px;
+	font-size: 17px;
+}
+
+
+/*Navbar*/
+.logo {
+	width: 200px;
+	height: 200px;
+	padding-left: 50px;
+}
+
+.navbar-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #343432;
+}
+
+.navbar-link-flex {
+	display: flex;
+	justify-content: space-between;
+	margin-right: 200px;
+	width: 55%;
+}
+
+header a {
+	color: #80ffdb;
+	text-decoration: none;
+	padding: 0px;
+	font-size: 20px;
+}
+
+header a:hover {
+	color: pink;
+}
+
+.photo-ecology {
+	background-color: #13d5d1;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+
+
+.eco {
+	width: 400px;
+	height: 400px;
+	background-color: #13d5d1;
+	border-radius: 50%;
+	margin-right: 85px;
+	margin-left: 85px;
+}
+
+.margin {
+	margin-left: 125px;
+}
+
+.footer {
+	background-color: #343432;
+	color: whitesmoke;
+	padding: 25px 25px;
+}
+
+
+
+
+
+
