@@ -64,9 +64,13 @@ p{
 }
 
 
-video{
+.video{
   background-image: url("https://thumbs.dreamstime.com/b/vaste-et-bleu-oc%C3%A9an-belle-surface-de-l-eau-bleue-%C3%A0-la-mer-ouverte-82560659.jpg");
-  width: 1503px;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
  .circle-image div {
